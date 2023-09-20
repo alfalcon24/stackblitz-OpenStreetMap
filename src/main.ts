@@ -60,7 +60,7 @@ export class MapComponent implements OnInit {
     // Estilo del marcador
     const markerStyle = new Style({
       image: new Icon({
-        src: 'https://w7.pngwing.com/pngs/720/531/png-transparent-gps-navigation-systems-computer-icons-global-positioning-system-map-computer-program-map-gps-navigation-systems.png', // URL de la imagen del icono
+        src: 'pinmapa.png', // URL de la imagen del icono
         scale: 0.5, // Escala de la imagen del icono
       }),
     });
